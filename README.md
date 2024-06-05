@@ -30,7 +30,7 @@ Welcome, brave explorer, to **Dev's Marvelous ML Menagerie**! This is not just a
 
 1. **Clone the Repo**: 
    ```bash
-   git clone https://github.com/devnayak007/Marvelous-ML-Menagerie.git
+   git clone https://github.com/devnayak007/Dev-s-Marvelous-ML-Menagerie.git
    cd Marvelous-ML-Menagerie
    ```
 
